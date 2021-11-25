@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Fork do projeto "Criando um front-end totalmente componentizado na prática com ReactJS" da EDUZZ-DIO, mais abaixo temos um print da tela do meu github proveniente da execução do projeto no localhost.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About project
